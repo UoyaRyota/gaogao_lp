@@ -1,0 +1,197 @@
+h1.wow.fadeInDown {
+  font-weight: normal;
+  font-size: 60px;
+  color:white;
+  font-family: serif;
+}
+
+.btn-flat-border {
+  font-family: serif;
+  display: inline-block;
+  padding: 0.3em 1em;
+  margin: 10px; 0px
+  text-decoration: none;
+  color: white;
+  border: solid 2px white;
+  border-radius: 2px;
+  transition: .10s;
+}
+
+.btn-flat-border:hover {
+  background: #67c5ff;
+  color: white;
+}
+
+
+
+p.wow.fadeInDown {
+  font-weight: normal;
+  font-size: 15px;
+  font-family: serif;
+}
+
+.bg-1 {
+  background-image: url(../images/imghana01.jpeg);
+  background-size: cover;
+  height: 600px;
+}
+
+.navigation .navbar-brand {
+  padding-top: 5px;
+  display: inline-block;
+  color: white;
+  font-family: serif;
+}
+.navbar-toggleable-md .navbar-nav .nav-item {
+  float: none;
+  margin-left: 0;
+  font-family: serif;
+}
+
+p {
+  font-size: 16px;
+  line-height: 25px;
+  margin: 0px;
+  font-family: serif;
+  margin-left: 0px;
+}
+
+.about .about-slider img {
+  width: 70%;
+  height: 350px;
+  margin-left: 40px;
+}
+.heading h2 {
+  color: gray;
+  padding-bottom: 15px;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: serif;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.call-to-action .block .input-group input {
+  height: 50px;
+  font-family: serif;
+  border-radius: 0;
+  border: 1px solid black;
+  background-color: whitesmoke;
+
+
+}
+
+
+
+.call-to-action .block .input-group .btn-subscription {
+  height: 50px;
+  border-radius: 0;
+  border: 1px solid black;
+  box-shadow: none;
+  background: white;
+  padding: 0px 35px;
+  color:black;
+  font-weight: normal;
+  font-family: serif;
+}
+
+.input-field .form-control {
+  box-shadow: none;
+  background:whitesmoke;
+  border: 1px solid whitesmoke;
+  width: 100%;
+  height: 40px;
+  padding-left: 20px;
+  font-weight: 300px;
+  font-family: serif;
+  border-radius: 0;
+}
+
+.btn-send {
+  line-height: ４０px;
+  border: 2px solid black;
+  background: white;
+  color:black;
+  width: 100%;
+  font-size: 16px;
+  text-transform: capitalize;
+  font-weight: normal;
+  font-family: serif;
+  letter-spacing: 1px;
+  border-radius: 0;
+  margin-top: 10px;
+}
+
+.call-to-action {
+  padding: 90px 0px;
+  background-image: url(../images/imguoyaryota06.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 1170px;
+  color: #fff;
+  position: relative;
+}
+
+.service .block h3 {
+  color: #333333;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: serif;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.block img {
+  height: 100px;
+  border-radius: 3%;
+  margin-bottom: 30px;
+  object-fit: cover;
+}
+
+h4 {
+    color: #333333;
+    font-weight:bold;
+    font-size: 15px;
+    font-family: serif;
+    margin-bottom: 10px;
+    letter-spacing: 1px; 
+}
+
+.services  {
+  font-weight: normal;
+  font-family: serif;
+  font-size: 5px;
+}
+
+.blocks.fas fa-notes-medical{
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.service .block i {
+  font-size: 30px;
+  display: inline-block;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.services p {
+  font-size: 16px;
+  line-height: 25px;
+  margin: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  font-family: serif;
+  margin-left: 0px;
+}
+
+.section {
+  padding: 50px 0;
+  padding-top: 100px;
+  padding-right: 0px;
+  padding-bottom: 100px;
+  padding-left: 0px;
+}
